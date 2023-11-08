@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="prunning" xml:lang="zh-CN">
+<task id="prunning" >
     <title>修剪</title>
     <taskbody>
         <context id="context_qfs_wqw_zxb">

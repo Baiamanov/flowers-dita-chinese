@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="介绍" path="主题/介绍.html"/>
+   <appContext helpID="关心" path="主题/关心.html"/>
+   <appContext helpID="修剪" path="任务/修剪.html"/>
+   <appContext helpID="花园准备" path="任务/花园准备.html"/>
+   <appContext helpID="指数" path="主题/指数.html"/>
+   <appContext helpID="春天的花朵" path="概念/春天的花朵.html"/>
+   <appContext helpID="虹膜" path="主题/花朵/虹膜.html"/>
+   <appContext helpID="雪花莲" path="主题/花朵/雪花莲.html"/>
+   <appContext helpID="夏季花卉" path="概念/夏天的花.html"/>
+   <appContext helpID="栀子花" path="主题/花朵/栀子花.html"/>
+   <appContext helpID="紫丁香" path="主题/花朵/紫丁香.html"/>
+   <appContext helpID="秋天的花朵" path="概念/秋天的花朵.html"/>
+   <appContext helpID="菊花" path="主题/花朵/菊花.html"/>
+   <appContext helpID="丹参" path="主题/花朵/丹参.html"/>
+   <appContext helpID="冬天的花" path="概念/冬天的花.html"/>
+   <appContext helpID="非洲菊" path="主题/花朵/非洲菊.html"/>
+   <appContext helpID="词汇属" path="概念/词汇属.html"/>
+   <appContext helpID="术语表授粉" path="概念/术语表%20授粉.html"/>
+   <appContext helpID="词汇表萼片" path="概念/词汇表萼片.html"/>
+   <appContext helpID="术语表根茎" path="概念/术语表%20根茎.html"/>
+   <appContext helpID="术语表灯泡" path="概念/术语表灯泡.html"/>
+   <appContext helpID="术语表品种" path="概念/术语表%20品种.html"/>
+   <appContext helpID="术语表多年生植物" path="概念/术语表%20多年生植物.html"/>
+   <appContext helpID="术语表圆锥花序" path="概念/术语表%20圆锥花序.html"/>
+   <appContext helpID="版权" path="主题/版权.html"/>
+</map>
