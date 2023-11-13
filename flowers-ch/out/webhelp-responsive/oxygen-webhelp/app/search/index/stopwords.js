@@ -1,2 +1,2 @@
 // Auto generated list of analyzer stop words that must be ignored by search.
-var stopwords = ["呢，的，啊，哎，呀，我，靠","s","t","should","www"];
+var stopwords = ["but","be","with","such","if","for","no","will","not","are","and","their","then","this","on","into","a","or","there","in","that","they","was","is","it","at","the","as","s","t","these","by","to","of","www"];

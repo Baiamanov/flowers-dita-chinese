@@ -1,7 +1,4 @@
 var localization = new Array();
-localization["advanced_search_tooltip_title"]="搜索语法帮助";
-localization["reset_search_filters"]="重置";
-localization["search_filters"]="过滤器";
 localization["indexing_in_progress"]="索引过程正在进行。请稍后再试。";
 localization["search_index_not_found"]="找不到执行搜索查询的内容索引。";
 localization["index.terms.page.title"]="索引项";
